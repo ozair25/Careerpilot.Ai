@@ -1,0 +1,6 @@
+{
+  "name": "CareerPilot AI",
+  "description": "Enterprise-grade AI Career Coach. Featuring Gemini 1.5 Flash, Whisper Speech Synthesis, Vector-based RAG Knowledge Base, and Supabase Database.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
